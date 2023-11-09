@@ -1,6 +1,6 @@
 # 2016_wikipedia_kiwix
 
-This repo is a work in progress. I have a offline copy of Wikipedia from 2016 that was created by Kiwix (https://wiki.kiwix.org/wiki/Main_Page). Unfortunately, Wikipedia is not the greatest source of information and modifies the content on the fly (2020-2023) to support their various agendas/financial goals. That being said, it exists; and provides a valueable (historical?) perspective regardless of it's flaws. My hope in creating this repo is to get this copy of it online so that others can use it.
+This repo is a work in progress. I have a offline copy of Wikipedia from 2016 that was created by Kiwix (https://wiki.kiwix.org/wiki/Main_Page). Unfortunately, Wikipedia is not the greatest source of information and modifies the content on the fly (2020-2023) to support their various agendas/financial goals. That being said, it exists; and provides a valuable (historical?) perspective regardless of it's flaws. My hope in creating this repo is to get this copy of it online so that others can use it.
 
 Points of concern:
 
