@@ -10,8 +10,8 @@ Hosted by torrent? meanwhile what is the max free storage on github... 🤔
 
 Specific to windows problem, have tried to solve, still stuck
 
-static on github is roughly 500MB, total is 70GB. = .05%
+static files that I could put on github is roughly 500MB, total is 70GB. = .05%
 
-difficult to store all of it, also to create pdfs, and how to organize
+difficult to store/rasterize all of it, also time consuming to create pdfs
 
 copyright. published by wikipedia, kiwix already, doubt a problem, ©² 
