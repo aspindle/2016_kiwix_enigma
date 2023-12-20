@@ -16,12 +16,11 @@ difficult to store/rasterize all of it, also time consuming to create pdfs
 
 copyright. published by wikipedia, kiwix already, doubt a problem, ©² 
 
-might be a solution
-https://github.com/kiwix/kiwix-js
-https://browser-extension.kiwix.org/current/www/index.html
-
-looked at format also
+In looking at the file format...
 https://wiki.openzim.org/wiki/ZIM_File_Format/4
 https://wiki.openzim.org/wiki/Zeno_file_format
 
+found a way to access the zim files offline! 
+https://github.com/kiwix/kiwix-js
 
+Then it's just a matter of hosting the files as a torrent somewhere...
