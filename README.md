@@ -23,4 +23,7 @@ https://wiki.openzim.org/wiki/Zeno_file_format
 found a way to access the zim files offline! 
 https://github.com/kiwix/kiwix-js
 
+where the link is https://browser-extension.kiwix.org/current/
+select folder, doesn't actually upload. should work on mobile...
+
 Then it's just a matter of hosting the files as a torrent somewhere...
