@@ -21,7 +21,7 @@ In looking at the file format...
 https://wiki.openzim.org/wiki/ZIM_File_Format/4
 https://wiki.openzim.org/wiki/Zeno_file_format
 -->
-Temporary repository.
+
 
 found a way to access the zim files offline, 
 https://github.com/kiwix/kiwix-js
