@@ -16,7 +16,7 @@ static files that I could put on github is roughly 500MB, total is 70GB. = .05%
 
 difficult to store/rasterize all of it, also time consuming to create pdfs
 
-copyright. published by wikipedia, kiwix already, doubt a problem, ©² ®³
+copyright. published by wikipedia, kiwix already, doubt a problem, ©²
 
 Whole thing is 70GB, could upload somewhere via torrent.
 
