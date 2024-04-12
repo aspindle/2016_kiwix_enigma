@@ -10,7 +10,7 @@ I have an offline copy of Wikipedia from 2016 that was created by Kiwix (https:/
 
 Hosted by torrent? meanwhile what is the max free storage on github... 🤔-->
 
-[On a good day, this link works given you have the files.](https://browser-extension.kiwix.org/current/www/index.html)
+On a good day, this [link](https://browser-extension.kiwix.org/current/www/index.html) imitates the windows specific functionality, given you have the files.
 
 static files that I could put on github is roughly 500MB, total is 70GB. = .05%
 
