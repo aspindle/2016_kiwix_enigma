@@ -1,4 +1,4 @@
-# 2016_wikipedia_kiwix
+# The kiwix enigma
 
 
 <!--This repo is a work in progress.--> 
@@ -24,6 +24,34 @@ Whole thing is 70GB, could upload somewhere via torrent.
 In looking at the file format...
 https://wiki.openzim.org/wiki/ZIM_File_Format/4
 https://wiki.openzim.org/wiki/Zeno_file_format
+
+# 🤔
+
+but why was this version removed/ made no longer accessible in the first place? 
+
+# Other puzzling ones:
+
+Youtube vanced / newpipe / youtube-dl / yt-dlp getting almost wiped.
+
+The reddit clone's (Apollo) creator (Christian Selig) no longer creating the app.
+
+After a breif interaction with him on twitter, I think rawdrawandroid's creator cnlohr regretted creating it. Not sure why.
+
+Difficulty in downloading my own Robinhood (stock trading app) trading data after exit of platform.
+
+Value of open source by github, but there's no open source github app.
+
+Apple no longer supports dual boot of any <5 year old laptop, or any other operating system for that matter.
+
+Twitter ad removals never successful ([example 1](https://github.com/AnchitSingh/TwitterAdBlocker)) ([example 2](https://github.com/picatz/remove-twitter-trends)) I think advertisements and money hungry people go hand in hand. And they forget that you can die from a lack of water AND drown in it. Which is true for any subscription, rent, monthly, weekly, yearly profit model in general. 
+    
+Can't verify this one, but I think I read a while back there was an attempted murder of the Graphene OS creator.
+
+As far as OS updates go, I think they release intentionally broken ones, then they sweep you off your feet with the fix.
+
+Apple, Gooogle, Amazon... etc. getting into entertainment and other adjacent business(es). They will hit the same problem I did with support all the different flags; The higher number supported means less quality support for each. 
+
+If half of this is true, I'm in for a rough ride with the cookie sieves. What's disillusionment anyway... 
 
 <!--
 
