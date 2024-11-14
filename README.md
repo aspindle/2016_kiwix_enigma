@@ -43,13 +43,12 @@ Value of open source by github, but there's no open source github app.
 
 Apple no longer supports dual boot of any <5 year old laptop, or any other operating system.
 
-Twitter ad removals never successful ([example 1](https://github.com/AnchitSingh/TwitterAdBlocker)) ([example 2](https://github.com/picatz/remove-twitter-trends)) I think advertisements and money hungry people go hand in hand. And they forget that you can die from a lack of water AND drown in it. Which is true for any subscription, rent, monthly, weekly, yearly profit model for BOTH parties involved in the transactions.  
-    
-Can't verify this one, but I think I read a while back there was an attempted murder of the Graphene OS creator.
-
+Twitter ad removals never successful ([example 1](https://github.com/AnchitSingh/TwitterAdBlocker)) ([example 2](https://github.com/picatz/remove-twitter-trends)) 
+<!-- I think advertisements and money hungry people go hand in hand. And they forget that you can die from a lack of water AND drown in it. Which is true for any subscription, rent, monthly, weekly, yearly profit model for BOTH parties involved in the transactions.  -->
+<!--    
 As far as OS updates go, I think they release intentionally broken ones, then they sweep you off your feet with the fix.
 
-Apple, Gooogle, Amazon... etc. getting into entertainment and other adjacent business(es). They will hit the same problem I did with support all the different flags; The higher number supported means less quality support for each. 
+Apple, Gooogle, Amazon... etc. getting into entertainment and other adjacent business(es). They will hit the same problem I did with support all the different flags; The higher number supported means less quality support for each. -->
 
 If half of this is true, I'm in for a rough ride with the cookie sieves. What's disillusionment anyway... 
 
